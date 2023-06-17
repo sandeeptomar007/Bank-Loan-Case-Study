@@ -2,7 +2,9 @@
 
 ## Project Description
 
-The project aims to analyze loan application data from a consumer finance company. The objective is to identify patterns and factors that indicate whether a client is likely to have difficulty paying their loan installments. By conducting exploratory data analysis (EDA), we can uncover insights that will help the company minimize the risk of loan default and make informed decisions regarding loan approvals.
+The project aims to analyze loan application data from a consumer finance company. The objective is to identify patterns and factors that indicate whether a client is likely to have difficulty paying their loan installments. 
+
+By conducting exploratory data analysis (EDA), we can uncover insights that will help the company minimize the risk of loan default and make informed decisions regarding loan approvals.
 
 ## Approach
 
@@ -36,7 +38,9 @@ The analysis will be conducted using Microsoft Excel (2021)  or Jupyter Notebook
 ## Result
 
 By performing EDA and analyzing the loan application data, I will achieve a comprehensive understanding of the factors influencing loan default. 
+
 The insights gained from the analysis will assist the company in minimizing the risk of loan default, making appropriate decisions regarding loan approvals, and optimizing its portfolio and risk assessment strategies. 
+
 The project will provide valuable knowledge and actionable insights to enhance the company's lending practices and improve its overall business performance.
 
 
